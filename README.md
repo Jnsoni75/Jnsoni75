@@ -8,8 +8,16 @@
   <br />
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jatinnsoni)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-jatinnsoni.com-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://jatinnsoni.com/)
   [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jatinnsoni.mscs@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jnsoni75)
+
+  <br />
+
+  <!-- Portfolio Preview Banner -->
+  <a href="https://jatinnsoni.com/">
+    <img src="https://api.microlink.io/?url=https%3A%2F%2Fjatinnsoni.com&screenshot=true&meta=false&embed=screenshot.url&colorScheme=dark&viewport.isMobile=false&viewport.width=1200&viewport.height=630" alt="Jatin Soni Portfolio Preview" width="100%" style="border-radius: 8px; margin-top: 15px; margin-bottom: 15px;" />
+  </a>
 
   <br />
 
@@ -110,4 +118,12 @@
 <div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Jnsoni75&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Jatin Soni GitHub Stats" />
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jnsoni75&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jnsoni75/Jnsoni75/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jnsoni75/Jnsoni75/output/github-contribution-grid-snake.svg" />
+    <img alt="github-contribution-grid-snake" src="https://raw.githubusercontent.com/Jnsoni75/Jnsoni75/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
